@@ -102,15 +102,15 @@ def navidad(n)
     end
 end
 
-#letra_o(num)
-#puts
-#letra_i(num)
-#puts
-#letra_z(num)
-#puts
-#letra_x(num)
-#puts 
-#numero_cero(num)
-#puts
+letra_o(num)
+puts
+letra_i(num)
+puts
+letra_z(num)
+puts
+letra_x(num)
+puts 
+numero_cero(num)
+puts
 navidad(num)
 puts
