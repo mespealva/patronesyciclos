@@ -70,7 +70,7 @@ def numero_cero(n)
     puts
     (n-2).times do |i|
         (n).times do |j|
-            if j==(0) || j==i || j==n
+            if j==(0) || j==(i+1) || j==(n-1)
             print "*"
             else
                 print " "
